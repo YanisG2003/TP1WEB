@@ -264,6 +264,10 @@ footer p {
         font-size: 2em;
     }
 
+    .product-presentation {
+        margin-bottom: 3em;
+    }
+
     footer {
 		justify-content: flex-start;
 	}
@@ -407,6 +411,7 @@ footer p {
     .image-presentation img {
         width: 60%;
         height: auto;
+        margin-bottom: 5%;
     }
 
     .product-presentation h1,
@@ -435,7 +440,8 @@ footer p {
         display: flex; 
         justify-content: center; 
         align-items: center; 
-        margin: 0 auto 1em; 
+        margin:-10px;
+        padding:20px; 
         text-align: center;
     }
 
